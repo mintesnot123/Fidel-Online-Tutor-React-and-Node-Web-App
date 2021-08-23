@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/Fidel-Online-Tutor-React-and-Node-Web-App/static/js/main.644b5b5b.chunk.js",
+    "main.js.map": "/Fidel-Online-Tutor-React-and-Node-Web-App/static/js/main.644b5b5b.chunk.js.map",
+    "runtime-main.js": "/Fidel-Online-Tutor-React-and-Node-Web-App/static/js/runtime-main.ec884cd0.js",
+    "runtime-main.js.map": "/Fidel-Online-Tutor-React-and-Node-Web-App/static/js/runtime-main.ec884cd0.js.map",
+    "static/css/2.847a128f.chunk.css": "/Fidel-Online-Tutor-React-and-Node-Web-App/static/css/2.847a128f.chunk.css",
+    "static/js/2.e0fbc86e.chunk.js": "/Fidel-Online-Tutor-React-and-Node-Web-App/static/js/2.e0fbc86e.chunk.js",
+    "static/js/2.e0fbc86e.chunk.js.map": "/Fidel-Online-Tutor-React-and-Node-Web-App/static/js/2.e0fbc86e.chunk.js.map",
+    "index.html": "/Fidel-Online-Tutor-React-and-Node-Web-App/index.html",
+    "static/css/2.847a128f.chunk.css.map": "/Fidel-Online-Tutor-React-and-Node-Web-App/static/css/2.847a128f.chunk.css.map",
+    "static/js/2.e0fbc86e.chunk.js.LICENSE.txt": "/Fidel-Online-Tutor-React-and-Node-Web-App/static/js/2.e0fbc86e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec884cd0.js",
+    "static/css/2.847a128f.chunk.css",
+    "static/js/2.e0fbc86e.chunk.js",
+    "static/js/main.644b5b5b.chunk.js"
+  ]
+}
